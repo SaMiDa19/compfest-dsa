@@ -1,4 +1,4 @@
-# compfest-dsa
+# compfest-dsa.
 Repository ini merupakan lampiran untuk penugasan DSA COMPFEST 2021 milik kelompok YannLecun
 
 Isi repository ini terdiri dari 3 file:
